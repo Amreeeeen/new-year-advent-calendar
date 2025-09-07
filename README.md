@@ -16,11 +16,6 @@ This repository showcases an interactive **Figma prototype** for a **New Year Ad
 You can view the live Figma prototype here:  
 🔗 [View the Prototype on Figma](https://www.figma.com/proto/CCBiQwbTjWYrkxUxYg9Ael/New-Year--Advent-Calender.?node-id=1-1918&t=Cjjh2GtDpbiXsFCI-1&starting-point-node-id=1%3A281)
 
-## Screenshots
-![Screen 1](images/screenshot1.png)  
-![Screen 2](images/screenshot2.png)  
-
-> Tip: Export key screens or GIFs from Figma for better visual representation.
 
 ## Technologies & Tools
 - **Design & Prototyping:** Figma  
